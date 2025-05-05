@@ -1,2 +1,1 @@
-Here is my personal homepage
-have fun ~
+Here is my personal homepage, have fun ~
