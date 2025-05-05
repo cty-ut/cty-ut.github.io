@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : JasmineLover
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      ジャスミン茶 :tea: 大好き!!
+                      
+                      
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : cty-ut/JasmineLover.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
