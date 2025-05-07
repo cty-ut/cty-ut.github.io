@@ -4,6 +4,7 @@ tags: [daily]
 style: fill
 color: primary
 description: This blog will be used for recording my daily life and growth in study.
+layout: post
 ---
 First, the inrtoduction of myself: A ordinary person who wants to do a little change to the world.  I'm conducting the research of chemisrty in the university of Tokyo, I don't know if it is too late for starting the study of software development. Chemistry is funny, AI, software are alse funny. But for work, I intend to do the job of software development. By using LLM, I believe I can develop some really good product for world. I hope that even a little bit, some people's lives will be changed because of my work.
 
