@@ -1,6 +1,6 @@
 ---
 title: My first blog
-tags: daily
+tags: [daily]
 style: fill
 color: primary
 description: This blog will be used for recording my daily life and growth in study.
