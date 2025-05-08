@@ -24,7 +24,7 @@ I'm waiting for the arrival of this day.
 
 ### Project
 
-Fortunately, I am now living a fulfilling life with goals and direction. After learning Python, I develop a simple chatbot by using streamlit and API from openai. It can chat, upload files, analyse pictures by YOLOv8, that's kinds of simple functions. This is my first project, it is very simple but I gained a great sense of accomplishment from this project. I konw that is what I really love. By imporving my code ability(also by enriching my profile), I plan to do some extended works. It can not be really used by people because it just, simply use the LLM of Openai, I need to do some different. 'Study chatbot' is a good choice. By using RAG, materials can be uploaded and personalized answer is possible.
+Fortunately, I am now living a fulfilling life with goals and direction. After learning Python, I develop a simple chatbot by using streamlit and API from openai. It can chat, upload files, analyse pictures by YOLOv8, that's kinds of simple functions. This is my first project, it is very simple but I gained a great sense of accomplishment from this project. I know that is what I really love. By imporving my code ability(also by enriching my profile), I plan to do some extended works. It can not be really used by people because it just, simply use the LLM of Openai, I need to do some different. 'Study chatbot' is a good choice. By using RAG, materials can be uploaded and personalized answer is possible.
 Literally it can help students and researchs to understand courses and papers faster. Depending on the materials uploaded, AI can generate more specific answers.
 
 
