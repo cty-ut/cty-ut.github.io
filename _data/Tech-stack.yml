@@ -1,0 +1,3 @@
+- name: Streamlit
+  percentage: 70
+  color: secondary

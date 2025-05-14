@@ -1,5 +1,0 @@
-- name: Tech stack
-  skills:
-    - name: Streamlit
-      percentage: 70
-      color: danger

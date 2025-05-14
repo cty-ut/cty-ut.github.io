@@ -12,7 +12,7 @@ A AI-product learner. Curious about anything of programming.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Tech Stack" source=site.data.Tech-stack %}
 </div>
 
 <div class="row">
