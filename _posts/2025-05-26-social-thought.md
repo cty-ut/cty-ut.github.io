@@ -2,7 +2,7 @@
 title: 慢慢地我也开始理解他们
 tags: [daily, social]
 style: fill
-color: teal
+color: navy
 description: 一些关于社交的思考
 layout: post
 ---
