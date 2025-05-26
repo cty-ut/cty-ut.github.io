@@ -2,7 +2,7 @@
 title: Gradually, I Grew to Understand Them
 tags: [daily, social]
 style: fill
-color: navy
+color: secondary
 description: Reflections on Social Connection
 layout: post
 ---
