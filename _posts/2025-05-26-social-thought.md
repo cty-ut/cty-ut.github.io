@@ -1,9 +1,9 @@
 ---
-title: 慢慢地我也开始理解他们
+title: Gradually, I Grew to Understand Them
 tags: [daily, social]
 style: fill
 color: navy
-description: 一些关于社交的思考
+description: Reflections on Social Connection
 layout: post
 ---
 
