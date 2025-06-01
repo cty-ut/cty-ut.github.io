@@ -1,3 +1,7 @@
 - name: Streamlit
   percentage: 70
   color: danger
+
+- name: Vue
+  percentage: 60
+  color: info
